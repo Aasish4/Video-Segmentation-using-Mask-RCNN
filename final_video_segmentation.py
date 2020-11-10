@@ -47,8 +47,6 @@ print('Found GPU at: {}'.format(device_name))
 
 """# **STEP 8: IMPORTING REQUIREMENTS**"""
 
-# Commented out IPython magic to ensure Python compatibility.
-# COCOAPI FILE, WEIGHT FILE, AND INPUT VIDEO STAYS IN SAME DIRECTORY '/content/Mask_RCNN'
 
 import sys
 import os
